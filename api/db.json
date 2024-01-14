@@ -1,0 +1,189 @@
+{
+    "cards": [
+      {
+        "_id": 1,
+        "name": "Sales",
+        "icon": "bi bi-cart",
+        "amount": 145,
+        "percentage": 0.12,
+        "active": true
+      },
+      {
+        "_id": 2,
+        "name": "Revenue",
+        "icon": "bi bi-currency-dollar",
+        "amount": 3246,
+        "percentage": 0.08,
+        "active": false
+      },
+      {
+        "_id": 3,
+        "name": "Customers",
+        "icon": "bi bi-people",
+        "amount": 1244,
+        "percentage": -0.11,
+        "active": false
+      }
+    ],
+    "news": [
+      {
+        "id": 1,
+        "img": "src/assets/images/news-1.jpg",
+        "title": "Nihil blanditis at in inhil autem",
+        "subtitle": "Sit rescundae non aperanture laborisoam. Quia enim eligendi sed ut hram",
+        "category": "abc"
+      },
+      {
+        "id": 2,
+        "img": "src/assets/images/news-2.jpg",
+        "title": "Nihil blanditis at in inhil autem",
+        "subtitle": "Sit rescundae non aperanture laborisoam. Quia enim eligendi sed ut hram",
+        "category": "abc"
+      },
+      {
+        "id": 3,
+        "img": "src/assets/images/news-3.jpg",
+        "title": "Nihil blanditis at in inhil autem",
+        "subtitle": "Sit rescundae non aperanture laborisoam. Quia enim eligendi sed ut hram",
+        "category": "abc"
+      },
+      {
+        "id": 4,
+        "img": "src/assets/images/news-4.jpg",
+        "title": "Nihil blanditis at in inhil autem",
+        "subtitle": "Sit rescundae non aperanture laborisoam. Quia enim eligendi sed ut hram",
+        "category": "abc"
+      },
+      {
+        "id": 5,
+        "img": "src/assets/images/news-5.jpg",
+        "title": "Nihil blanditis at in inhil autem",
+        "subtitle": "Sit rescundae non aperanture laborisoam. Quia enim eligendi sed ut hram",
+        "category": "abc"
+      }
+    ],
+    "topselling": [
+      {
+        "_id": 1,
+        "preview": "src/assets/images/product-1.jpg",
+        "name": "Ut investors ipsa voluptas nulla",
+        "price": 64,
+        "sold": 124
+      },
+      {
+        "_id": 2,
+        "preview": "src/assets/images/product-2.jpg",
+        "name": "Ut investors ipsa voluptas nulla",
+        "price": 46,
+        "sold": 98
+      },
+      {
+        "_id": 3,
+        "preview": "src/assets/images/product-3.jpg",
+        "name": "Ut investors ipsa voluptas nulla",
+        "price": 59,
+        "sold": 74
+      },
+      {
+        "_id": 4,
+        "preview": "src/assets/images/product-4.jpg",
+        "name": "Ut investors ipsa voluptas nulla",
+        "price": 32,
+        "sold": 63
+      },
+      {
+        "_id": 5,
+        "preview": "src/assets/images/product-5.jpg",
+        "name": "Ut investors ipsa voluptas nulla",
+        "price": 79,
+        "sold": 41
+      }
+    ],
+    "recentSales": [
+      {
+        "_id": 1,
+        "number": "#2457",
+        "customer": "Brandon Jacob",
+        "product": "At presantinum minu",
+        "price": 64,
+        "status": "Approved"
+      },
+      {
+        "_id": 2,
+        "number": "#2147",
+        "customer": "Brandon Jacob",
+        "product": "At presantinum minu",
+        "price": 55,
+        "status": "Pending"
+      },
+      {
+        "_id": 3,
+        "number": "#2849",
+        "customer": "Brandon Jacob",
+        "product": "At presantinum minu",
+        "price": 125,
+        "status": "Rejected"
+      },
+      {
+        "_id": 4,
+        "number": "#2644",
+        "customer": "Brandon Jacob",
+        "product": "At presantinum minu",
+        "price": 64,
+        "status": "Approved"
+      },
+      {
+        "_id": 5,
+        "number": "#3592",
+        "customer": "Brandon Jacob",
+        "product": "At presantinum minu",
+        "price": 135,
+        "status": "Rejected"
+      }
+    ],
+    "recentactivity": [
+      {
+        "_id": 1,
+        "time": "32 min",
+        "color": "text-success",
+        "content": "Quia quae rerum explicabo officail btae",
+        "highlight": "explicano offocals"
+      },
+      {
+        "_id": 2,
+        "time": "56 min",
+        "color": "text-danger",
+        "content": "Quia quae rerum explicabo officail btae",
+        "highlight": ""
+      },
+      {
+        "_id": 3,
+        "time": "2 hrs",
+        "color": "text-primary",
+        "content": "Quia quae rerum explicabo officail btae",
+        "highlight": ""
+      },
+      {
+        "_id": 4,
+        "time": "1 day",
+        "color": "text-info",
+        "content": "Quia quae rerum explicabo officail btae",
+        "highlight": "explicano offocals"
+      },
+      {
+        "_id": 5,
+        "time": "2 days",
+        "color": "text-warning",
+        "content": "Quia quae rerum explicabo officail btae",
+        "highlight": ""
+      },
+      {
+        "_id": 6,
+        "time": "4 weeks",
+        "color": "text-muted",
+        "content": "Quia quae rerum explicabo officail btae",
+        "highlight": ""
+      }
+    ]
+  }
+  

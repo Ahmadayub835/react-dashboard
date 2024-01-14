@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Inclusive+Sans&family=Montserrat&family=Mooli&family=Open+Sans&family=Poppins:wght@300;400;500&family=Quicksand&family=Roboto&family=Urbanist:wght@400;500&display=swap');
+
+:root{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Open Sans' , sans-serif;
+    font-family: 'Nunito',sans-serif;
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Nunito',sans-serif;
+}
